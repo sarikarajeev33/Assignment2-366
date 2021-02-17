@@ -1,6 +1,6 @@
 # Assignment 2 - Wash
-Design due: Thursday 2/13<br>
-Final due: Thursday 2/20
+Design due:Friday 2/26<br>
+Final due: Friday 3/05
 
 # Goal
 The goal of this assignment is to play with low-level file IO in C.
@@ -46,7 +46,7 @@ total 56<br>
 -rw-r--r--  1 binkley binkley  8 Jan 30 16:05 b2<br>
 
 # Design
-Due: Thursday 2/13
+Due: Friday 2/26
 
 You likely don't have enough information to complete this assignment and ultimatly you will need to make sure your program works. Thus, your Design Phase has two tasks:
 1. Come up with some questions you need answered. 
@@ -65,7 +65,7 @@ In addition to Mr. Krabs's requirements, I will impose a few of my own:
 - Follow good SE practices (e.g., function headers, variable naming conventions, etc.)
 
 # Final Submission
-Due: Thursday 2/20
+Due: Friday 3/05
 
 Submit to GitHub:
 1. All of your code (WITHOUT derivable files). 
